@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0190-reverse-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0190-reverse-bits) |
 ## Sorting
 |  |
 | ------- |
