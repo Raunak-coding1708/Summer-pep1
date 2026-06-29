@@ -9,5 +9,10 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0136-single-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
