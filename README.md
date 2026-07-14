@@ -47,4 +47,12 @@
 |  |
 | ------- |
 | [1600-throne-inheritance](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/1600-throne-inheritance) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
