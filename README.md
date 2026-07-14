@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0169-majority-element) |
+| [1600-throne-inheritance](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/1600-throne-inheritance) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -34,4 +35,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0169-majority-element) |
+## Tree
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/1600-throne-inheritance) |
+## Depth-First Search
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/1600-throne-inheritance) |
+## Design
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/1600-throne-inheritance) |
 <!---LeetCode Topics End-->
