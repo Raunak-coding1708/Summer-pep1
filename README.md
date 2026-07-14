@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0092-reverse-linked-list-ii) |
 ## Two Pointers
 |  |
 | ------- |
