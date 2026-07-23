@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0169-majority-element) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -30,6 +31,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -58,6 +60,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0876-middle-of-the-linked-list) |
 ## Backtracking
