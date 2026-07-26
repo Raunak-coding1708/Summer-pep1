@@ -40,11 +40,13 @@
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0113-path-sum-ii) |
 | [1600-throne-inheritance](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0113-path-sum-ii) |
 | [1600-throne-inheritance](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/1600-throne-inheritance) |
 ## Design
@@ -70,5 +72,10 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0113-path-sum-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Raunak-coding1708/Summer-pep1/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
